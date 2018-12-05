@@ -1,0 +1,16 @@
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\PoEApp.exe
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\PoEApp.pdb
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\PoEApp.xml
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.customerdata.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.LoginScreen.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.HomeScreen.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.Accountcreation.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.Form4.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.Resources.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoE V1.00a.vbproj.GenerateResource.Cache
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoE V1.00a.vbproj.CoreCompileInputs.cache
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoEApp.exe
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoEApp.xml
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoEApp.pdb
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoETest.AdminPannel.resources
+E:\Coding enviroments\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\PoE V1.00a.vbprojAssemblyReference.cache

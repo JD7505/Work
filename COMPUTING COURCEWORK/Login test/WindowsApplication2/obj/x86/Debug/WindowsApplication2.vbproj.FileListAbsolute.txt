@@ -1,0 +1,51 @@
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+\\ccw03usr02\2016$\jn160407\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+\\Ccw03usr02\2016$\JN160407\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+\\CCW03USR02\Home\CC1-CORE\Users\Students\2016\JN160407\ComputingCourcework\Login test\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form3.resources
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.customerdata.resources
+H:\COMPUTING COURCEWORK\Login test\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form4.resources
